@@ -36,33 +36,34 @@ I hold an **MSc in Computer Science** from Kielce University of Technology. My t
 
 **Backend**<br>
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,gradle,maven,docker&theme=dark" alt="Backend"/>
-<img src="https://img.shields.io/badge/OpenAPI_%2F_Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="OpenAPI"/>
+<img src="https://img.shields.io/badge/OpenAPI_(Swagger)-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="OpenAPI"/>
 <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway"/>
 
 **Frontend &amp; mobile**<br>
 <img src="https://skillicons.dev/icons?i=angular,ts,flutter,dart,html,css&theme=dark" alt="Frontend"/>
 
 **Other tools and technologies**<br>
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,unity,opengl,git,github,linux,azure&theme=dark" alt="Other"/>
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,unity,git,github,linux,azure&theme=dark" alt="Other"/>
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL"/>
 
 ---
 
 ### Areas of experience
 
 **Backend systems &amp; APIs**<br>
-<sub>Java, Spring Boot, PostgreSQL, Flyway, OpenAPI (Swagger)</sub><br>
+<i>Java, Spring Boot, PostgreSQL, Flyway, OpenAPI (Swagger)</i><br>
 Design and implementation of REST APIs, relational data modelling and database migrations, multi-tenant data isolation, authentication and access control, reliable asynchronous processing.
 
 **Web &amp; mobile applications**<br>
-<sub>Angular, TypeScript, Flutter, Dart</sub><br>
+<i>Angular, TypeScript, Flutter, Dart</i><br>
 End-to-end feature development from user interface to API integration, responsive layouts, state management and code review in a team workflow.
 
 **Applied AI &amp; procedural generation**<br>
-<sub>Python, local LLMs, machine learning, Unity</sub><br>
+<i>Python, local LLMs, machine learning, Unity</i><br>
 Natural-language control of generative systems and automated quality evaluation using statistical and neural methods (MSc research).
 
 **Game development &amp; computer graphics**<br>
-<sub>Unity, C#, C++, OpenGL</sub><br>
+<i>Unity, C#, C++, OpenGL</i><br>
 Gameplay systems, procedural content generation and real-time rendering techniques.
 
 ---
@@ -70,20 +71,11 @@ Gameplay systems, procedural content generation and real-time rendering techniqu
 ### GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nekrosino&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekrosino&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nekrosino&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekrosino&layout=compact&hide_border=true&theme=github_dark&langs_count=8&hide=html,css,jupyter%20notebook,shaderlab,cmake,hlsl" alt="Top languages"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nekrosino&hide_border=true&theme=github-dark-blue" alt="Streak"/>
-</p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nekrosino&theme=github-compact&hide_border=true&area=true" alt="Contribution graph"/>
-</p>
-
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nekrosino&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
 </p>
 
 ---
