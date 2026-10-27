@@ -36,33 +36,34 @@ Ukończyłem studia magisterskie na kierunku **Informatyka** na Politechnice Św
 
 **Backend**<br>
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,gradle,maven,docker&theme=dark" alt="Backend"/>
-<img src="https://img.shields.io/badge/OpenAPI_%2F_Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="OpenAPI"/>
+<img src="https://img.shields.io/badge/OpenAPI_(Swagger)-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="OpenAPI"/>
 <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway"/>
 
 **Frontend i mobile**<br>
 <img src="https://skillicons.dev/icons?i=angular,ts,flutter,dart,html,css&theme=dark" alt="Frontend"/>
 
 **Pozostałe narzędzia i technologie**<br>
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,unity,opengl,git,github,linux,azure&theme=dark" alt="Other"/>
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,unity,git,github,linux,azure&theme=dark" alt="Other"/>
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL"/>
 
 ---
 
 ### Obszary doświadczenia
 
 **Systemy backendowe i API**<br>
-<sub>Java, Spring Boot, PostgreSQL, Flyway, OpenAPI (Swagger)</sub><br>
+<i>Java, Spring Boot, PostgreSQL, Flyway, OpenAPI (Swagger)</i><br>
 Projektowanie i implementacja REST API, modelowanie relacyjnych baz danych i migracje, izolacja danych w systemach wielodostępnych, uwierzytelnianie i kontrola dostępu, niezawodne przetwarzanie asynchroniczne.
 
 **Aplikacje webowe i mobilne**<br>
-<sub>Angular, TypeScript, Flutter, Dart</sub><br>
+<i>Angular, TypeScript, Flutter, Dart</i><br>
 Kompleksowa realizacja funkcjonalności od interfejsu użytkownika po integrację z API, responsywne widoki, zarządzanie stanem oraz code review w pracy zespołowej.
 
 **Zastosowania AI i generacja proceduralna**<br>
-<sub>Python, lokalne modele LLM, uczenie maszynowe, Unity</sub><br>
+<i>Python, lokalne modele LLM, uczenie maszynowe, Unity</i><br>
 Sterowanie systemami generatywnymi za pomocą języka naturalnego oraz automatyczna ocena jakości metodami statystycznymi i neuronowymi (praca magisterska).
 
 **Tworzenie gier i grafika komputerowa**<br>
-<sub>Unity, C#, C++, OpenGL</sub><br>
+<i>Unity, C#, C++, OpenGL</i><br>
 Systemy rozgrywki, proceduralne generowanie treści oraz techniki renderingu czasu rzeczywistego.
 
 ---
@@ -70,20 +71,11 @@ Systemy rozgrywki, proceduralne generowanie treści oraz techniki renderingu cza
 ### Aktywność na GitHubie
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nekrosino&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&locale=pl" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekrosino&layout=compact&hide_border=true&theme=github_dark&langs_count=8&locale=pl" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nekrosino&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true&locale=pl" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekrosino&layout=compact&hide_border=true&theme=github_dark&langs_count=8&hide=html,css,jupyter%20notebook,shaderlab,cmake,hlsl&locale=pl" alt="Top languages"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nekrosino&hide_border=true&theme=github-dark-blue&locale=pl" alt="Streak"/>
-</p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nekrosino&theme=github-compact&hide_border=true&area=true" alt="Contribution graph"/>
-</p>
-
-### Osiągnięcia
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nekrosino&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
 </p>
 
 ---
